@@ -348,9 +348,17 @@ input[type="password"] {
             width: 100%;
             height: auto;
         }
-        .last-contain button{
+        .last-contain .item button{
+            display: flex;
             width: 100%;
             height: auto;
+        }
+        .footer {
+            display: flex;
+            flex-direction: column;
+        }
+        .footer-text-title{
+            margin-top: 20px;
         }
             
            }
