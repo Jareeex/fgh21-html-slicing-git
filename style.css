@@ -348,6 +348,10 @@ input[type="password"] {
             width: 100%;
             height: auto;
         }
+        .last-contain button{
+            width: 100%;
+            height: auto;
+        }
             
            }
 .logo-container {
